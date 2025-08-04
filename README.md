@@ -20,4 +20,5 @@ Case / Overview / Status
 
 ### Surrey Civil Courts, gross negligence.
 
-### [Bali Airport](https://github.com/Morningstar88/Bali2)
+### [Bali Airport](https://github.com/Morningstar88/Bali2)https://www.airport-technology.com/projects/ngurah-rai-airport/
+https://injourneyairports.id/
