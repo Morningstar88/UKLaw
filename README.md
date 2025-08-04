@@ -12,7 +12,7 @@ Case / Overview / Status
 
 ## DOCUMENTS SENT, PROCESS PENDING
 
-### [Surrey CivilCourt, Gross Negligence](https://github.com/Morningstar88/MoneyclaimUKJudicialReview)
+### [Surrey Civil Court, Gross Negligence](https://github.com/Morningstar88/MoneyclaimUKJudicialReview)
 
 ### [Deutchse Bank](https://github.com/Morningstar88/DeutscheBankSuicideCoercion)
 
@@ -22,11 +22,12 @@ Case / Overview / Status
 
 ### East Timor TBA
 
-### [Bali Airport](https://github.com/Morningstar88/Bali2)https://www.airport-technology.com/projects/ngurah-rai-airport/
+### [Bali Airport](https://github.com/Morningstar88/Bali2) https://www.airport-technology.com/projects/ngurah-rai-airport/
+
 https://injourneyairports.id/
 
 ### [Taiwan Racism, Suicide Coercion etc)
 
-### AMC
+### AMC 
 
 ### Shepperton Studios
