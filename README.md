@@ -1,6 +1,6 @@
-# [UK Law Main Admin Login](https://www.moneyclaim.gov.uk/web/mcol/welcome) 
+# [UK Law Main Admin Panel](https://www.moneyclaim.gov.uk/web/mcol/welcome) 
 
-## Central respository for various legal initiatives against Wanda Group, AMC, and the Courts themselves.
+## Central respository for cases against Wanda Group, AMC, and the Courts themselves.
 
 ## IN PROCESS
 
