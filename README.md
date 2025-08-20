@@ -6,9 +6,11 @@
 
 ### [JMC Vs Wanda Group](https://github.com/Morningstar88/AMCandWandaGroupTrumanShowMisconduct)
 
+Notice of Issue received June 19th from Shepperton Legal Office.
+
 #### 20th August. 
 **UPDATE:** *Case uncontested by Wanda Group. Judge should collect automatically. Alert: Check paperwork.* 
-**  TODO:** *Check initial sent documents. Confirm and triple-check paperwork. Screenshots.Send ONE covering letter to MC, copied and JICO. Reference stalled cases. You explicitly and cordially agree this is a Test of liability. First of many payments.*                                                                                        
+**  TODO:** *CORRECT PORTAL DETAILS. Check initial sent documents. Confirm and triple-check paperwork. Screenshots.Send ONE covering letter to MC, copied and JICO. Reference stalled cases. You explicitly and cordially agree this is a Test of liability. First of many payments.*                                                                                        
 
 Process update in issues.
 
