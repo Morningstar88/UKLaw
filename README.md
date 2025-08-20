@@ -2,13 +2,17 @@
 
 ## Central respository for various legal initiatives against Wanda Group, AMC, and the Courts themselves.
 
-Note: Case updates will be on an individual issue thread, or separate Repo.
-
-Case / Overview / Status
-
 ## IN PROCESS
 
-### [Wanda Group](https://github.com/Morningstar88/AMCandWandaGroupTrumanShowMisconduct)
+### [JMC Vs Wanda Group](https://github.com/Morningstar88/AMCandWandaGroupTrumanShowMisconduct)
+
+#### 20th August. 
+**UPDATE:** *Case uncontested by Wanda Group. Judge should collect automatically. Alert: Check paperwork.* 
+**  TODO:** *Check initial sent documents. Confirm and triple-check paperwork. Screenshots.Send ONE covering letter to MC, copied and JICO. Reference stalled cases. You explicitly and cordially agree this is a Test of liability. First of many payments.*                                                                                        
+
+Process update in issues.
+
+![helenaLarge](https://github.com/user-attachments/assets/2387aa81-90a8-4f54-a07c-252c98c2c329)
 
 ## DOCUMENTS SENT, PROCESS PENDING
 
