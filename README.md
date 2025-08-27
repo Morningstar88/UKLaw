@@ -1,4 +1,5 @@
 # [UK Law Main Admin Panel](https://www.moneyclaim.gov.uk/web/mcol/welcome) 
+[Sign in here quicker?](https://www.access.service.gov.uk/login/signin/creds)
 
 ## Central respository for cases against Wanda Group, AMC, and the Courts themselves.
 
